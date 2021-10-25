@@ -43,6 +43,11 @@ module.exports = {
       maxWidth: {},
       // Max Height
       maxHeight: {},
+      // Min Height
+      minHeight: {
+        "screen-full": "calc(100vh - 60px)",
+        "screen-1/2": "50vh",
+      },
       backgroundImage: {
         // Background image
         name: "url('/path/')",
