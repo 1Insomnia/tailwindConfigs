@@ -1,5 +1,4 @@
-const colors = {
-
+const boostrapColors = {
   white: "#fff",
   black: "#000",
   primary: "#0D6EFD",
@@ -10,8 +9,7 @@ const colors = {
   info: "#0dcaf0",
   light: "#f8f9fa",
   dark: "#212529",
-
-
+  // Blue
   blue: {
     100: "#CFE2FF",
     200: "#9EC5FE",
@@ -24,6 +22,7 @@ const colors = {
     900: "#031633",
   },
 
+  // Indigo
   indigo: {
     100: "#E0CFFC",
     200: "#C29FFA",
@@ -36,6 +35,7 @@ const colors = {
     900: "#140330",
   },
 
+  // Purple
   purple: {
     100: "#E2D9F3",
     200: "#C5B3E6",
@@ -48,6 +48,7 @@ const colors = {
     900: "#160D27",
   },
 
+  // Pink
   pink: {
     100: "#F7D6E6",
     200: "#EFADCE",
@@ -60,6 +61,7 @@ const colors = {
     900: "#2B0A1A",
   },
 
+  // Red
   red: {
     100: "#F8D7DA",
     200: "#F1AEB5",
@@ -72,6 +74,7 @@ const colors = {
     900: "#2C0B0E",
   },
 
+  // Orange
   orange: {
     100: "#FFE5D0",
     200: "#FECBA1",
@@ -84,6 +87,7 @@ const colors = {
     900: "#331904",
   },
 
+  // Yellow
   yellow: {
     100: "#FFF3CD",
     200: "#FFE69C",
@@ -96,6 +100,7 @@ const colors = {
     900: "#332701",
   },
 
+  // Green
   green: {
     100: "#D1E7DD",
     200: "#A3CFBB",
@@ -108,6 +113,7 @@ const colors = {
     900: "#051B11",
   },
 
+  // Teal
   teal: {
     100: "#D2F4EA",
     200: "#A6E9D5",
@@ -120,6 +126,7 @@ const colors = {
     900: "#06281E",
   },
 
+  // Cyan
   cyan: {
     100: "#CFF4FC",
     200: "#9EEAF9",
@@ -132,6 +139,7 @@ const colors = {
     900: "#032830",
   },
 
+  // Gray
   gray: {
     100: "#f8f9fa",
     200: "#e9ecef",
@@ -144,3 +152,5 @@ const colors = {
     900: "#212529",
   }
 }
+
+export default boostrapColors;

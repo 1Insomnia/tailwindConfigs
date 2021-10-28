@@ -25,7 +25,7 @@ const colors = {
   amber: "#FFB80C",
   orange: "#FF8D05",
   "deep-orange": "#FF4C1F",
-  brow: "#6E4B3F",
+  brown: "#6E4B3F",
   grey: "#949393",
   "grey-light": "#F0F0F0",
   "blue-grey": "#567280",
